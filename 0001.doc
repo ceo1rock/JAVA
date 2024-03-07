@@ -1,2 +1,59 @@
-Estudo de Java pelo livro:
+Estudo de Java utilizando o livro:
 "Java como Programar".
+
+
+PÁG 20: Apresentação
+Versão 1.0 foi lançada em 1995.
+O livro “Java como Programar” é considerado um ótimo texto para os estudos de JAVA.
+
+Há uma parte sobre o desenvolvimento relacionado a expressões lambda e fluxos lambda em Java.
+
+Em programação, lambda geralmente se refere a funções anônimas ou funções sem nome. Em Java, as expressões lambda são uma forma de criar funções de maneira mais concisa, preciso, essencial.
+
+Programação funcional, um paradigma de programação que se concentra em tratar a computação como avaliação de funções matemáticas e evita a mudança de estado e dados mutáveis.
+
+Fluxos (streams (abstrações usada ao ler ou gravar arquivos ou se comunicar por meio de soquetes de rede.)) para realizar tarefas de programação funcional em coleções. Em Java, os fluxos são uma abstração poderosa que permite operações de processamento de dados de maneira funcional em coleções, como listas ou conjuntos.
+
+Em resumo, o também aborda conceitos avançados de programação funcional em Java, usando expressões lambda e fluxos para realizar operações em coleções de maneira mais eficiente e concisa.
+
+Prefácio
+
+"O principal mérito da língua é a clareza..." — Galeno
+O livro apresenta as tecnologias de computação, baseadas nas recomendações curriculares da ACM e IEEE, e para a preparação para o exame AP Computer Science. 
+ACM = Associação de Computação Machinaria.
+IEEE = Instituto de Engenheiros Eletricistas e Eletrônicos
+
+ “Java: como programar” é organizado de forma modular.
+
+Recursos novos e atualizados Eis as atualizações que fizemos em Java: como programar, 10ª edição:
+
+* Fundamentos de programação adicionais
+* Programação orientada a objetos e projeto orientado a objetos
+* Interfaces gráficas Swing e gráficos Java 2D
+* Estruturas de dados, coleções, lambdas e fluxos
+* Concorrência; rede
+* Interfaces gráficas do usuário, imagens gráficas e multimídia JavaFX
+* Área de trabalho voltada a banco de dados e desenvolvimento web
+* Java Standard Edition: Java SE 7 e o novo Java SE 8
+* Interface, elementos gráficos e multimídia Swing e JavaFX
+* Obtendo valores monetários certos
+* Estruturas de dados e coleções genéricas
+* Banco de dados
+* Desenvolvimento de aplicativos web
+
+
+Programação Java segura
+
+
+
+
+
+
+
+
+
+É difícil construir sistemas de força industrial que resistem a ataques de vírus, worms e outras formas de “malware”. Hoje, pela internet, esses ataques podem ser instantâneos e ter um escopo global. Incorporar segurança aos softwares desde o início do ciclo de desenvolvimento pode reduzir significativamente as vulnerabilidades. Incorporamos várias práticas seguras de codificação Java (como apropriado para um livro introdutório) nas nossas discussões e exemplos de código. 
+
+O CERT® Coordination Center (www.cert.org) foi criado para analisar e responder prontamente a ataques. CERT — o Computer Emergency Response Team — é uma organização financiada pelo governo no Carnegie Mellon University Software Engineering Institute™. O CERT publica e promove padrões de codificação segura para várias linguagens de programação populares a fim de ajudar os desenvolvedores de software a implementar sistemas de força industrial que evitam as práticas de programação que deixam os sistemas abertos a ataques. 
+
+Estudo de caso de GUIs e imagens gráficas (Opcional)
