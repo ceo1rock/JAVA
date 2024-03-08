@@ -42,18 +42,19 @@ Recursos novos e atualizados Eis as atualizações que fizemos em Java: como progr
 * Desenvolvimento de aplicativos web
 
 
-Programação Java segura
+“Programação Java segura”
+
+É difícil construir sistemas resistem a ataques de vírus, worms e outras formas de “malware”. Hoje, pela internet, esses ataques podem ser instantâneos e ter um escopo global. Incorporar segurança aos softwares desde o início do ciclo de desenvolvimento pode reduzir significativamente as vulnerabilidades.
+
+Há várias práticas seguras de codificação em Java.
+
+O CERT® Coordination Center (www.cert.org) foi criado para analisar e responder prontamente a ataques. 
+
+CERT — o Computer Emergency Response Team — é uma organização financiada pelo governo no Carnegie Mellon University Software Engineering Institute™. 
+
+O CERT publica e promove padrões de codificação segura para várias linguagens de programação populares a fim de ajudar os desenvolvedores de software a implementar sistemas de força industrial que evitam as práticas de programação que deixam os sistemas abertos a ataques. 
 
 
+A abordagem de ensino
 
-
-
-
-
-
-
-É difícil construir sistemas de força industrial que resistem a ataques de vírus, worms e outras formas de “malware”. Hoje, pela internet, esses ataques podem ser instantâneos e ter um escopo global. Incorporar segurança aos softwares desde o início do ciclo de desenvolvimento pode reduzir significativamente as vulnerabilidades. Incorporamos várias práticas seguras de codificação Java (como apropriado para um livro introdutório) nas nossas discussões e exemplos de código. 
-
-O CERT® Coordination Center (www.cert.org) foi criado para analisar e responder prontamente a ataques. CERT — o Computer Emergency Response Team — é uma organização financiada pelo governo no Carnegie Mellon University Software Engineering Institute™. O CERT publica e promove padrões de codificação segura para várias linguagens de programação populares a fim de ajudar os desenvolvedores de software a implementar sistemas de força industrial que evitam as práticas de programação que deixam os sistemas abertos a ataques. 
-
-Estudo de caso de GUIs e imagens gráficas (Opcional)
+comentários aparecem em verde palavras-chave aparecem em azul escuro erros aparecem em vermelho constantes e valores literais aparecem em azul claro outras codificações aparecem em preto Destaque de código. Realçamos em amarelo os segmentos de código m
